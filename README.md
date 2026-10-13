@@ -1,10 +1,10 @@
-<a href="https://exxenhouse.com"><img src="assets/hero.webp" alt="Exxen House presentation: desktop and mobile screens of the live store" width="100%"></a>
+<a href="https://exxenhouse.com"><img src="assets/cover.webp" alt="Exxen House: real desktop and mobile screens of exxenhouse.com" width="100%"></a>
 
 # Exxen House
 
 A furniture store for discovering contemporary products by room, collection and category.
 
-**Live:** [exxenhouse.com](https://exxenhouse.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
+**[Visit exxenhouse.com ↗︎](https://exxenhouse.com)** &nbsp;·&nbsp; [More work by Mert Ömeroğlu](https://github.com/mertomeroglu)
 
 ### Highlights
 
@@ -17,8 +17,12 @@ A furniture store for discovering contemporary products by room, collection and 
 
 Shopify · Liquid
 
-<p align="center"><a href="https://exxenhouse.com"><img src="assets/poster.webp" alt="Exxen House portrait presentation with desktop and mobile screens" width="420"></a></p>
+### Screens
+
+<a href="https://exxenhouse.com"><img src="assets/desktop.webp" alt="Exxen House desktop: real screen of exxenhouse.com" width="100%"></a>
+
+<p align="center"><img src="assets/mobile.webp" alt="Exxen House on a phone: real mobile screen of exxenhouse.com" width="300"></p>
 
 ---
 
-<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
+<sub>Presentation-only repository. Images are real, unmodified product screens in a simple frame; application source and private configuration are not published here. Brands and visual content belong to their respective owners — see [LICENSE](LICENSE).</sub>

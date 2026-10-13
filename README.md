@@ -1,28 +1,24 @@
-<p align="center"><img src="assets/hero.webp" alt="Exxen House shown on desktop and mobile" width="100%"></p>
+<a href="https://exxenhouse.com"><img src="assets/hero.webp" alt="Exxen House presentation: desktop and mobile screens of the live store" width="100%"></a>
 
 # Exxen House
 
-A furniture commerce experience for discovering contemporary products by room, collection, and category.
+A furniture store for discovering contemporary products by room, collection and category.
 
-**[Visit live website](https://exxenhouse.com)**
+**Live:** [exxenhouse.com](https://exxenhouse.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
 
-## Highlights
+### Highlights
 
 - Room-led furniture discovery and curated collections
-- Search, favourites, account, and cart entry points
+- Search, favourites, account and cart entry points
 - Responsive Bulgarian storefront with product-focused navigation
 - Real product photography across desktop and mobile layouts
 
-## Verified technology
+### Built with
 
-Shopify storefront and theme technology, confirmed from the live public site and the corresponding local project configuration.
+Shopify · Liquid
 
-## Live interface
+<p align="center"><a href="https://exxenhouse.com"><img src="assets/poster.webp" alt="Exxen House portrait presentation with desktop and mobile screens" width="420"></a></p>
 
-<img src="assets/desktop.webp" alt="Exxen House desktop homepage" width="68%"> <img src="assets/mobile.webp" alt="Exxen House mobile homepage" width="27%">
+---
 
-## About this repository
-
-This is a presentation-only repository containing selected public screenshots, this README, and a small static introduction page. Application source and private configuration are not published here.
-
-Visual content and brand assets remain the property of their respective owners. See [LICENSE](LICENSE).
+<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
